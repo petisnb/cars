@@ -1,1 +1,3 @@
-Kell belőle egy AMG
+c220 
+s500
+e350
